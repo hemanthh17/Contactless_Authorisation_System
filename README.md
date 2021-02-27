@@ -8,7 +8,7 @@ Based on the circuit we have designed, a servo-motor would be enabled for the au
 
 ## Tech Stack
 We have used the following
-1) ThingsSpeak API
+1) ThingSpeak API
 2) TinkerCAD Circuit Design
 3) Jupyter Notebook
 4) SQL
@@ -35,7 +35,7 @@ There will be requirement of a software which can accomodate .ipynb files and al
 3) Click upload notebook and navigate to the file system where it was downloaded.
 4) Now you can execute cell by cell and observe the output
 
-### ThingsSpeak 
+### ThingSpeak 
 1) Navigate to https://www.thingspeak.com
 2) Create an account or login
 3) Navigate to Channels and click public channels
